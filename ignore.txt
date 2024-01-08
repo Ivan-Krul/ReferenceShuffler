@@ -1,16 +1,1 @@
-.*\.html
-.*\.ps1
-.*\.txt
-.*\.py
-.*\.svg
-.*\.mkv
-.*\.avi
-.*\.cbr
-.*\.ico
-.*\.png
-.*\.jpg
-.*\.kmz
-.*\.woff
-\.gitignore
-.*#.*
-.*\\a\\.*
+Shrink
